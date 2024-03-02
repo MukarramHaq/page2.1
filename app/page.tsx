@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Loads from "./navigate";
 
 export default function Home() {
   return (
